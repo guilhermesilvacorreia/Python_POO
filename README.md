@@ -19,7 +19,7 @@ Para garantir a organização e escalabilidade, o projeto foi estruturado utiliz
 .
 ├── main.py                 # Ponto de entrada e interface com o usuário
 ├── README.md               # Documentação do projeto
-└── modelos/                # Pacote de domínio do sistema
+└── modelo/                # Pacote de domínio do sistema
     ├── __init__.py         # Inicialização do pacote
     ├── cliente.py          # Classes Cliente e PessoaFisica
     ├── conta.py            # Classes Conta e ContaCorrente
