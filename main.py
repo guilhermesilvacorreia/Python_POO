@@ -1,5 +1,5 @@
 import textwrap
-from modelos import PessoaFisica, ContaCorrente, Deposito, Saque
+from modelo import PessoaFisica, ContaCorrente, Deposito, Saque
 
 def menu():
     menu_text = """\n
